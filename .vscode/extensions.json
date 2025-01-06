@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "clinyong.vscode-css-modules",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "kamikillerto.vscode-colorize",
+        "mikestead.dotenv",
+        "ms-playwright.playwright",
+        "raywiis.png-image-diff",
+        "streetsidesoftware.code-spell-checker",
+        "stylelint.vscode-stylelint",
+        "vscode-icons-team.vscode-icons",
+        "vunguyentuan.vscode-css-variables",
+        "yoavbls.pretty-ts-errors"
+    ]
+}
